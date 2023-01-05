@@ -99,3 +99,52 @@ label i:hover{
     background-image: linear-gradient(180deg,transparent, rgba(0, 0, 0, 0.6),rgb(0, 0, 0));
     height: 7rem;
 }
+
+
+
+
+.about-header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    color: #fff;
+    background: #0658cb;
+}
+.about-text{
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin: 5px;
+}
+.about-content{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.about-card{
+    position: absolute;
+    top: 105px;
+    text-align: center;
+    width: 80%;
+    backdrop-filter: blur(18px);
+    color: #fff;
+    border-radius: 30px;
+}
+.about-bg{
+    width: 1349px;
+    height: 1080px;
+    background-image: url(images/269774.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.about-card h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin: 19px;
+}
+.about-card p{
+    padding: 0px 10px 20px 10px;
+}
