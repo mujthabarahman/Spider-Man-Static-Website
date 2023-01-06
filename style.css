@@ -151,6 +151,8 @@ label i:hover{
 
 
 
+
+    
 .films-header{
     display: flex;
     justify-content: center;
@@ -175,9 +177,8 @@ label i:hover{
     flex-wrap: wrap;
     top: 10px;
     justify-content: space-between;
-    background-image: url(images/335850.jpg);
+    background-image: url(images/blur-bg.jpg);
     background-repeat: no-repeat;
-    background-position: bottom;
     background-size: cover;
 }
 .films-card{
@@ -188,6 +189,7 @@ label i:hover{
     color: rgb(255, 255, 255);
     border-radius: 30px;
     margin: 11px;
+    cursor: pointer;
 }
 .films-card h1{
     margin: 10px;
