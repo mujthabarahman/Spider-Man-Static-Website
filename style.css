@@ -197,3 +197,42 @@ label i:hover{
 .films-card p{
     margin: 10px;
 }
+
+
+
+.award-header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    color: #fff;
+    background: #0658cb;
+}
+.award-text{
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin: 5px;
+}
+.award-content{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 35px;
+    background: #0658cb91;
+}
+.award-card{
+    width: 27%;
+    height: 310px;
+    background: #0658cb;
+    color: #fff;
+    margin: 38px;
+    border-radius: 10px;
+    box-shadow: -30px 30px #bed3f1;
+}
+.award-card p{
+    padding: 10px;
+}
+.award-card h1{
+    padding: 10px;
+}
