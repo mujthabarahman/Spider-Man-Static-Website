@@ -236,3 +236,36 @@ label i:hover{
 .award-card h1{
     padding: 10px;
 }
+
+
+
+
+
+.actors-header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    color: #fff;
+    background: #0658cb;
+}
+.actors-text{
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin: 5px;
+}
+.actors-content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: #71a0e1;
+    padding: 0px 0px 50px 0px;
+}
+.actor{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    margin: 65px 50px 0px;
+}
