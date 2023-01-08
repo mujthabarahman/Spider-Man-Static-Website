@@ -283,6 +283,7 @@ label i:hover{
 }
 #gallery-container .section img{
     width: 100%;
+    margin-top: 10px;
     
 }
 #gallery-container .section img:hover{
@@ -301,5 +302,3 @@ label i:hover{
 .gallery-text{
     text-transform: uppercase;
     font-size: 3rem;
-    margin: 5px;
-}
