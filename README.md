@@ -1,6 +1,2 @@
 # Spider-Man-Static-Website
-A static website which contains some basic information of Spider-Man. 
-I have now created a basic home container
-and then I created about container which contains some basic and advanced informations on spider man
-after that I have created films section/container
-after that I created actors page after awards container
+Everything was just awesome! I have created it well. And I hope you all liked it. Very simple, clean and well designed Spider-man Website. And I know it's not responsive. If you need to contribute, just write the code and do a pull request. As a beginner, I'll defenitely accept it. You can also work on any other features of this website. If I felt good, You also can be a contributor on this simple and basic project. If anyone needed to contact me, just do it! I am very glad to work with you and I need a team for workout. You can contact me through my instagram account "thecloudycap" < username.
