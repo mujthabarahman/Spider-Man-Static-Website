@@ -302,3 +302,11 @@ label i:hover{
 .gallery-text{
     text-transform: uppercase;
     font-size: 3rem;}
+footer{
+    background: #000;
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
