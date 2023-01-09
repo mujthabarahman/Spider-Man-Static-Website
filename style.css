@@ -43,7 +43,7 @@ nav .menu ul li a{
     transition: all 100ms;
 }
 nav .menu ul li a:hover{
-    background-color: rgb(182, 37, 37);
+    background-color: rgb(211, 40, 40);
     color: #ffffff;
     border-width: 0;
     border-radius: 5px;
